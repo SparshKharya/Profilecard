@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -219,10 +218,10 @@ body{
     <div class="name">Sparsh Kharya</div>
     <div class="about">Developer & Designer</div>
     <div class="social-icons">
-      <a href="#" class="linkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
-      <a href="#" class="github"><i class="fab fa-github"></i></a>
-      <a href="#" class="insta"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.linkedin.com/in/sparsh-kharya-8aa32819a/" class="linkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://twitter.com/Sparsh_Kharya" class="twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/SparshKharya" class="github"><i class="fab fa-github"></i></a>
+      <a href="https://www.instagram.com/sparshkharya/" class="insta"><i class="fab fa-instagram"></i></a>
     </div>
     <div class="buttons">
       <button>Message</button>
@@ -247,4 +246,3 @@ body{
   </div>
 </body>
 </html>
-
