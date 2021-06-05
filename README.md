@@ -211,7 +211,7 @@ body{
   <div class="wrapper">
     <div class="img-area">
       <div class="inner-area">
-        <img src="C:\Users\Dell\Desktop\Sparsh.jpg" alt="">
+        <img src="Sparsh.jpg" alt="">
       </div>
     </div>
     <div class="icon arrow"><i class="fas fa-arrow-left"></i></div>
